@@ -1,0 +1,11 @@
+#include "Plateau.h"
+
+int main() {
+    init();
+    createCases();
+    display();
+    //displayPlayers();
+
+    // Voir play dans monopoly.c
+    return 0;
+}
