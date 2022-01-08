@@ -1,0 +1,33 @@
+|=======================================================|
+|Case Depart  | Galatasaray |    Taxe     |  Lisbonne   |
+|             | Nef Stadyumu|  habitation |Stade de Luz |
+|             |             |  Payez 100e |             |
+|=======================================================|
+| Raccourci : |    Ajax     | Tirez une   |    Milan    |
+|--> case 13  |  Amsterdam  |   carte     |  San Siro   |
+|             |    Arena    | communaute  |             |
+|=======================================================|
+|Case prison  |      OM     |Impot sur  la|     PSG     |
+|             |  Velodrome  |fortune:payez|     Parc    |
+|             |             |  100 euros  | des Princes |
+|=======================================================|
+|Raccourci:   |  Chelsea    |  Tirez une  |   Man city  |
+|--> case 21  | Stamford    |   carte     |   Eithad    |
+|             |  Bridge     |   chance    |   Stadium   |
+|=======================================================|
+|   Case      |      OL     | Taxe sur les|   Juventus  |
+|stationnement|   Groupama  |produit de lu|   Juventus  |
+|   gratuit   |   Stadium   |xe:Payez 200e|   Stadium   |
+|=======================================================|
+| Raccourci   |  Dortmund   |   Tirez     |Bayern munich|
+| --> case 29 | Iduna Park  | une carte   |Allianz Arena|
+|             |             |communaute   |             |
+|=======================================================|
+|   Allez en  | Real Madrid |Vous trouvez | Man united  |
+|   prison    |  Barnabeu   |   50 euros  | Old Trafford|
+|             |             |  par terre  |             |
+|=======================================================|
+|  Raccourci: |  Barcelone  | Tirez une   |  Liverpool  |
+|  --> case 5 | Camp nou    | carte       |   Anfield   |
+|             |             | chance      |             |
+|=======================================================|
